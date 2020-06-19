@@ -1,5 +1,5 @@
 # CadavreExquis
 == Chapitre 2
 Un petit chat mangeait +
-du chocolat.
+du chocolat. Et *ensuite*
 
