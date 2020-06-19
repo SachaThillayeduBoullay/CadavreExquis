@@ -2,5 +2,5 @@
 *L'HISTOIRE DE %@ù£$£µ$:8
 [%hardbreaks]
 +++<u>%@ù£$£µ$:8<u>+++ était un enfant ^sage^ et ~calme~.
-IL aime #JOUER# et [.line-through] #TUER# dancer
- CAUTION: &#8594; le feu marche sur %@ù£$£µ$:8
+IL aime ##JOUER## et [.line-through]#TUER# dancer
+CAUTION: &#8594; le feu marche sur %@ù£$£µ$:8
